@@ -1,8 +1,4 @@
-/*
-  You should be able to call this function with no arguments and see its output in the terminal:
-  greetProgrammer();
-  => "Hello, programmer!"
-*/
+
 function greetProgrammer() {
   console.log("Hello, programmer!");
 }
